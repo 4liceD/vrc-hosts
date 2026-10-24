@@ -11,3 +11,10 @@
 # ------------------------------------------------------------
 0.0.0.0 telemetry.vrclinking.com
 0.0.0.0 data.vr-m.net
+
+# ------------------------------------------------------------
+# WeatherWidget (鮪技研)
+# Exposes your city/region to viewers during stream
+# https://booth.pm/ja/items/6021430
+# ------------------------------------------------------------
+0.0.0.0 weather.ootr.jp   
